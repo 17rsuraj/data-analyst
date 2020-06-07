@@ -40,3 +40,9 @@ Additionally, box plots, scatter plots and bar plots are created to get more ins
 2. Numpy
 3. Matplotlib
 4. Seaborn
+
+-------------------------------------------------------------------------------------------------------------
+
+## License
+
+[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
