@@ -4,7 +4,7 @@
 
 This is the first project in [Udacity Data Analyst Nanodegree Program](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
-In this project, the local and global temperature data is analysed and temperature trends in a German city Munich were compared to overall global temperature trends.
+In this project, the local and global temperature data is analysed and temperature trends in a German city Munich were compared to overall global temperature trends. The project review by Udacity is also attahced in this repo.
 
 -----------------------------------------------------------------------------------------------------------------------
 
